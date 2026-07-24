@@ -170,19 +170,7 @@ CLIENT_URL=http://localhost:5173
 
 ---
 
-# 📸 Screenshots
 
-> Replace these placeholders with your project images.
-
-| Login | Chat |
-|-------|------|
-| ![](screenshots/login.png) | ![](screenshots/chat.png) |
-
-| Profile | Mobile View |
-|---------|-------------|
-| ![](screenshots/profile.png) | ![](screenshots/mobile.png) |
-
----
 
 # 🌟 Why ChatSphere?
 
